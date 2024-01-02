@@ -1,0 +1,9 @@
+make directory adding proga.obj, progb.obj, progc.obj, copy.obj.
+
+enter instruction make
+
+enter instruction ./20141543.out
+
+run program
+
+if you want erase execution file, write make clean
